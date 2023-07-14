@@ -1,6 +1,9 @@
 [![Header](fondo_dev.png "Header")](https://www.youtube.com/@palabraconexavirtual9758)
 
 
+###
+
+<h1 align="center">hey there 👋</h1>
 
 ## 👉 Sobre mí
 Soy un **Desarrollador**  centrado en Cyber Seguridad.
@@ -66,11 +69,4 @@ Quiero mejorar el mundo un mejor lugar por medio de la informática
 
 <h1 align="center">hey there 👋</h1>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Alejandro from México<br><br>- 🔭 I want to use computing to make the world better place<br>- 📚 I'm currently learning Cyber Security<br>- ⚡ In my free time I like study and learn</p>
 
