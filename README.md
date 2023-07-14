@@ -6,6 +6,8 @@
 Soy un **Desarrollador**  centrado en Cyber Seguridad.
 Al mismo tiempo **desarrollo ideas de software experimental**
 
+Quiero mejorar el mundo un mejor lugar por medio de la informática
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
