@@ -1,9 +1,6 @@
 [![Header](fondo_dev.png "Header")](https://www.youtube.com/@palabraconexavirtual9758)
 
 
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ## 👉 Sobre mí
 Soy un **Desarrollador**  centrado en Cyber Seguridad.
