@@ -1,14 +1,20 @@
 [![Header](fondo_dev.png "Header")](https://www.youtube.com/@palabraconexavirtual9758)
 
 
+<!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<h1 align="center">Hola, Soy Alejandro</h1>
+<h3 align="center">Me apasiona la informática</h3>
 
-## 👉 Sobre mí
-Soy un **Desarrollador**  centrado en Cyber Seguridad.
-Al mismo tiempo **desarrollo ideas de software experimental**
 
-Quiero mejorar el mundo un mejor lugar por medio de la informática
+- 🔭 ACTUALMENTE TRABAJO EN TEST PSICOLGÓGICOS (URL-DEL-PROYECTO)
 
-###
+- 🌱 ESTUDIOS  Certificación HarvardX Cs50, Ing. Sistemas Computacionales UVEG
+
+- 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
+
+- 📫 PUEDES CONTACTARME EN **dev.alejandro5@gmail.com**
+
+- 
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -65,5 +71,14 @@ Quiero mejorar el mundo un mejor lugar por medio de la informática
 ###
 
 <h1 align="center">hey there 👋</h1>
+
+
+## 👉 Sobre mí
+Soy un **Desarrollador**  centrado en Cyber Seguridad.
+Al mismo tiempo **desarrollo ideas de software experimental**
+
+Quiero mejorar el mundo un mejor lugar por medio de la informática
+
+###
 
 
