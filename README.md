@@ -10,7 +10,7 @@
 
 - 🌱 ESTUDIOS  Certificación HarvardX Cs50, Ing. Sistemas Computacionales UVEG
 
-- 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
+- 👨‍💻 PUEDES PROBAR EL TEST-PSICOLOGICO QUE PROGRAME https://al-iskander2.github.io/Test-Psicologico/
 
 - 📫 PUEDES CONTACTARME EN **dev.alejandro5@gmail.com**
 
