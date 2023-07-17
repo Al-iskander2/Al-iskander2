@@ -14,7 +14,6 @@
 
 - 📫 PUEDES CONTACTARME EN **dev.alejandro5@gmail.com**
 
-- 
 
 <h3 align="left">🛠 Language and tools</h3>
 
