@@ -6,11 +6,11 @@
 <h3 align="center">Me apasiona la informática</h3>
 
 
-- 🔭 ACTUALMENTE TRABAJO EN TEST PSICOLGÓGICOS (URL-DEL-PROYECTO)
+- 🔭 ACTUALMENTE TRABAJO EN TEST PSICOLGÓGICOS https://al-iskander2.github.io/Test-Psicologico/
 
 - 🌱 ESTUDIOS  Certificación HarvardX Cs50, Ing. Sistemas Computacionales UVEG
 
-- 👨‍💻 PUEDES PROBAR EL TEST-PSICOLOGICO QUE PROGRAME https://al-iskander2.github.io/Test-Psicologico/
+- 👨‍💻 OTRO DE MIS PROYECTTOS https://al-iskander2.github.io/Seguridad-interior-Jane/ 
 
 - 📫 PUEDES CONTACTARME EN **dev.alejandro5@gmail.com**
 
