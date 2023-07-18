@@ -8,7 +8,9 @@
 
 - 🔭 ACTUALMENTE TRABAJO EN TEST PSICOLGÓGICOS https://al-iskander2.github.io/Test-Psicologico/
 
-- 🌱 ESTUDIOS  Certificación HarvardX Cs50, Ing. Sistemas Computacionales UVEG
+- 🌱 ESTUDIOS  Certificación HarvardX Cs50, <img src="HarvardX.jpg" height="40" alt="c logo"  />
+  <img width="12" />
+              Ing. Sistemas Computacionales UVEG
 
 - 👨‍💻 OTRO DE MIS PROYECTTOS https://al-iskander2.github.io/Seguridad-interior-Jane/ 
 
