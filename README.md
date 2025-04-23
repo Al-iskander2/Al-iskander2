@@ -1,26 +1,27 @@
 [![Header](fondo_dev.png "Header")](https://www.youtube.com/@palabraconexavirtual9758)
 
+<!-- Generated with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
-<!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola, Soy Alejandro</h1>
-<h3 align="center">Me apasiona la informática</h3>
+<h1 align="center">Hi, I'm Alejandro</h1>
+<h3 align="center">I’m passionate about Computer Science</h3>
 
+- 🔭 Currently working on a digital psychological test project for rehabilitation centers  
+  [Try it here](https://al-iskander2.github.io/Test-Psicologico/)
 
-- 🔭 ACTUALMENTE TRABAJO EN TEST PSICOLGÓGICOS https://al-iskander2.github.io/Test-Psicologico/
+- 📚 Studying:  
+  HarvardX Certification in CS50  
+  <img src="HarvardX.jpg" height="40" alt="Harvard logo" />  
+  Computer Systems Engineering at UVEG  
+  <img src="UVEG.jpg" height="40" alt="UVEG logo" />
 
-- 🌱 ESTUDIOS  Certificación HarvardX Cs50 <img src="HarvardX.jpg" height="40" alt="c logo"  />
-  <img width="12" />
-              Ing. Sistemas Computacionales UVEG <img src="UVEG.jpg" height="40" alt="c logo"  />
-  <img width="12" />
+- 👨‍💻 Another project I developed:  
+  [Motivational Quotes Website](https://al-iskander2.github.io/Seguridad-interior-Jane/)
 
-- 👨‍💻 OTRO DE MIS PROYECTTOS https://al-iskander2.github.io/Seguridad-interior-Jane/ 
+- 📫 Contact me at: **dev.alejandro5@gmail.com**
 
-- 📫 PUEDES CONTACTARME EN **dev.alejandro5@gmail.com**
+---
 
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+### 🛠 Languages and Tools
 
 <div align="left">
   <div style="display: inline-block; text-align: center;">
@@ -57,62 +58,49 @@
   </div>
 </div>
 
-<pre></pre>
+---
+
 <div align="center">
   <a href="https://www.linkedin.com/in/alejandro-rangel-62457815b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
   <a href="https://youtu.be/PjCA7G7hTuA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
-  <a href="dev.alejandro5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:dev.alejandro5@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
-
 </div>
 
-###
+---
 
-<h3 align="left"></h3>
+## 📹 Favorite YouTube Videos  
+[YouTube Channel](https://www.youtube.com/@palabraconexavirtual9758)
 
-###
-
-## 📹 Vídeos favoritos de mi [Youtube](https://www.youtube.com/@palabraconexavirtual9758) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UC3iVwWjDFlcMW4NPVfS3-NA)
-<a href='https://www.youtube.com/watch?v=PjCA7G7hTuA&t=64s&ab_channel=PalabraConexaVirtual' title="" target='_blank' style="display: inline-block; background-color: black; padding: 30px;">
-  <img width='32%' src='miniatura.png' style="border: 50px solid black;" />
+<a href="https://www.youtube.com/watch?v=PjCA7G7hTuA&t=64s&ab_channel=PalabraConexaVirtual" target="_blank">
+  <img width="32%" src="miniatura.png" />
 </a>
 
-###
-<h4>
+---
 
-  Test psicológico | Try it: https://al-iskander2.github.io/Test-Psicologico/
-  
-</h4>
+## 🧠 Featured Projects
 
+### Digital Psychological Test  
+[Try it](https://al-iskander2.github.io/Test-Psicologico/)
+
+### Seguridad Interior – Motivational Quote Platform  
+[Try it](https://al-iskander2.github.io/Seguridad-interior-Jane/)
+
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Al-iskander2.Al-iskander2&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Al-iskander2.Al-iskander2" />
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## About Me
 
-
-## 👉 Sobre mí
-Soy un **Desarrollador**  centrado en Cyber Seguridad.
-Al mismo tiempo **desarrollo ideas de software experimental**
-
-Quiero mejorar el mundo un mejor lugar por medio de la informática
-
-Proyectos:
-
-
-Seguridad interior | Try it: https://al-iskander2.github.io/Seguridad-interior-Jane/
-
-
-Test psicológico | Try it: https://al-iskander2.github.io/Test-Psicologico/
-
-###
-
+I am a **developer focused on cyber security** and passionate about **experimental software ideas**.  
+I aim to make the world a better place through computing.
 
