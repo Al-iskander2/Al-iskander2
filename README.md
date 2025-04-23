@@ -3,21 +3,21 @@
 <!-- Generated with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
 <h1 align="center">Hi, I'm Alejandro</h1>
-<h3 align="center">I’m passionate about Computer Science</h3>
+<h3 align="center">Developer | Neurotech Enthusiast | Data Analyst | Creative Thinker</h3>
 
-- 🔭 Currently working on a digital psychological test project for rehabilitation centers  
-  [Try it here](https://al-iskander2.github.io/Test-Psicologico/)
+---
 
+- 🔭 Currently working on **experimental software for mental health and human behavior**
+- 🧠 Passionate about merging **AI, neuroscience, and creativity**
 - 📚 Studying:  
-  HarvardX Certification in CS50  
-  <img src="HarvardX.jpg" height="40" alt="Harvard logo" />  
-  Computer Systems Engineering at UVEG  
-  <img src="UVEG.jpg" height="40" alt="UVEG logo" />
-
-- 👨‍💻 Another project I developed:  
-  [Motivational Quotes Website](https://al-iskander2.github.io/Seguridad-interior-Jane/)
-
-- 📫 Contact me at: **dev.alejandro5@gmail.com**
+  - HarvardX Certification in CS50x, CS50w, CS50AI  
+  - Computer Systems Engineering at UVEG  
+- 💻 Building:
+  - [Digital Psychological Test](https://al-iskander2.github.io/Test-Psicologico/)  
+  - [Motivational Quotes Website](https://al-iskander2.github.io/Seguridad-interior-Jane/)  
+  - [Stock Price Predictor](https://colab.research.google.com/drive/151CHTQIkMKo-bvM4TqmDHHiST63kYCZI?usp=sharing)
+- 🎥 Content creator on [YouTube](https://www.youtube.com/@palabraconexavirtual9758)
+- 📫 Contact: **dev.alejandro5@gmail.com**
 
 ---
 
@@ -64,35 +64,41 @@
   <a href="https://www.linkedin.com/in/alejandro-rangel-62457815b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
-  <a href="https://youtu.be/PjCA7G7hTuA" target="_blank">
+  <a href="https://www.youtube.com/@palabraconexavirtual9758" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
   <a href="mailto:dev.alejandro5@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
 </div>
 
 ---
 
-## 📹 Favorite YouTube Videos  
-[YouTube Channel](https://www.youtube.com/@palabraconexavirtual9758)
+## 🧠 Featured Projects
 
-<a href="https://www.youtube.com/watch?v=PjCA7G7hTuA&t=64s&ab_channel=PalabraConexaVirtual" target="_blank">
+### Web Development & AI Projects
+- [Stock Price Predictor – LSTM](https://colab.research.google.com/drive/151CHTQIkMKo-bvM4TqmDHHiST63kYCZI?usp=sharing)
+- [Creative Portfolio Website (Bird)](https://al-iskander2.github.io/bird/)
+- [Motivational Quote Platform](https://al-iskander2.github.io/Seguridad-interior-Jane/)
+
+### Neurotech Projects
+- [Damage Brain Nevia – EEG Research](https://www.youtube.com/watch?v=XUQrZKiacMM)
+- [Digital Psychological Test](https://al-iskander2.github.io/Test-Psicologico/)
+
+### Marketing & Data Analysis
+- [Google Ads Campaign – Music Video](https://www.youtube.com/watch?v=cw8oh54la8I)
+- [Book Sales Strategy – Organic Growth](https://github.com/Al-iskander2/Alejandro_Fraga_Marketing_Portfolio_ROAS.pdf)
+
+---
+
+## 📹 Favorite YouTube Video  
+<a href="https://www.youtube.com/watch?v=PjCA7G7hTuA" target="_blank">
   <img width="32%" src="miniatura.png" />
 </a>
 
 ---
 
-## 🧠 Featured Projects
-
-### Digital Psychological Test  
-[Try it](https://al-iskander2.github.io/Test-Psicologico/)
-
-### Seguridad Interior – Motivational Quote Platform  
-[Try it](https://al-iskander2.github.io/Seguridad-interior-Jane/)
-
----
-
+## 📈 Visitor Count
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Al-iskander2.Al-iskander2" />
 </div>
@@ -101,6 +107,6 @@
 
 ## About Me
 
-I am a **developer focused on cyber security** and passionate about **experimental software ideas**.  
-I aim to make the world a better place through computing.
-
+I'm a **developer focused on AI **, passionate about **building tools for human potential**.  
+I explore the intersection of **technology, mental health, and creative communication**.  
+I believe computing can help us understand ourselves better and make the world a more empathetic place.
