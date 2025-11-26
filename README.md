@@ -1,82 +1,86 @@
 [![Header](fondo_dev.png "Header")](https://www.youtube.com/@palabraconexavirtual9758)
 
-<!-- Generated with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hi, I'm Alejandro</h1>
-<h3 align="center">I’m passionate about Computer Science</h3>
+<h3 align="center">I'm passionate about Computer Science</h3>
 
-- 🔭 I’m currently working on a **Psychological Test** for rehabilitation centers  
-  https://al-iskander2.github.io/Test-Psicologico/
-
-- 🌱 EDUCATION  
-  HarvardX CS50 Certification <img src="HarvardX.jpg" height="40" alt="Harvard logo" />  
-  <img width="12" />  
-  B.Sc. Computer Systems Engineering, UVEG <img src="UVEG.jpg" height="40" alt="UVEG logo" />  
-  <img width="12" />
-
-- 👨‍💻 Another project I built:  
-  https://al-iskander2.github.io/Seguridad-interior-Jane/
-
-- 📫 Reach me at **dev.alejandro5@gmail.com**
+<p align="center">I am a <strong>developer focused on cybersecurity</strong> who also builds <strong>experimental software ideas</strong>. My goal is to make the world a better place through computing.</p>
 
 ---
 
-<h3 align="left">🛠 Language and Tools</h3>
+## 🎓 Educación
+- **HarvardX CS50 Certification** <img src="HarvardX.jpg" height="40" alt="Harvard logo" />
+- **B.Sc. Computer Systems Engineering, UVEG** <img src="UVEG.jpg" height="40" alt="UVEG logo" />
 
-<div align="left">
-  <!-- Row 1 -->
-  <div style="display:inline-block;text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
-    <br/>C
-  </div>
-  <div style="display:inline-block;text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-    <br/>Python
-  </div>
-  <div style="display:inline-block;text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-    <br/>JavaScript
-  </div>
-  <div style="display:inline-block;text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R"/>
-    <br/>R
-  </div>
-  <!-- Row 2 -->
-  <div style="display:inline-block;text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-    <br/>HTML5
-  </div>
-  <div style="display:inline-block;text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-    <br/>CSS3
-  </div>
-  <div style="display:inline-block;text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask"/>
-    <br/>Flask
-  </div>
-  <div style="display:inline-block;text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-    <br/>React
-  </div>
-  <!-- Row 3 -->
-  <div style="display:inline-block;text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-    <br/>MySQL
-  </div>
-  <div style="display:inline-block;text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"/>
-    <br/>SQLite
-  </div>
-  <div style="display:inline-block;text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-    <br/>Docker
-  </div>
-  <div style="display:inline-block;text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-    <br/>Git
-  </div>
+## 🚀 Proyecto Actual
+- **Psychological Test** for rehabilitation centers  
+  🔗 **Try it:** https://al-iskander2.github.io/Test-Psicologico/
+
+---
+
+## 🧠 Sitios Estáticos Psicología
+| Proyecto | Enlace |
+|----------|--------|
+| **Seguridad interior** | [Try it](https://al-iskander2.github.io/Seguridad-interior-Jane/) |
+| **Test psicológico** | [Try it](https://al-iskander2.github.io/Test-Psicologico/) |
+
+## 🎨 Ejercicios de UI/UX
+| Proyecto | Enlace |
+|----------|--------|
+| **Bird** | [Try it](https://al-iskander2.github.io/bird/) |
+
+## 🤖 Machine Learning
+| Proyecto | Enlace |
+|----------|--------|
+| **Machine learning portfolio** | [Try it](https://al-iskander2.github.io/machinelearning.github.io/) |
+
+## 💡 Proyectos Alternativos
+| Proyecto | Enlaces |
+|----------|---------|
+| **Brainberry Interfaz** | [Code](https://github.com/Al-iskander2/brainberryinterfaz) • [Demo](https://al-iskander2.github.io/brainberryinterfaz) |
+
+---
+
+## 🛠 Lenguajes y Herramientas
+
+<div align="center">
+
+### Lenguajes de Programación
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" title="R"/>
+</div>
+
+### Frontend & Frameworks
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>
+</div>
+
+### Bases de Datos & Herramientas
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
+</div>
+
 </div>
 
 ---
+
+## 📹 Videos en mi [YouTube](https://www.youtube.com/@palabraconexavirtual9758) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UC3iVwWjDFlcMW4NPVfS3-NA)
+
+[![Psychological Test Video](miniatura.png)](https://www.youtube.com/watch?v=PjCA7G7hTuA&t=64s&ab_channel=PalabraConexaVirtual)
+
+**Psychological Test** | Try it: https://al-iskander2.github.io/Test-Psicologico/
+
+---
+
+## 📫 Contacto
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alejandro-rangel-62457815b/" target="_blank">
@@ -90,27 +94,10 @@
   </a>
 </div>
 
+**Email:** dev.alejandro5@gmail.com
+
 ---
-
-## 📹 Favorite videos on my [YouTube](https://www.youtube.com/@palabraconexavirtual9758) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UC3iVwWjDFlcMW4NPVfS3-NA)
-<a href="https://www.youtube.com/watch?v=PjCA7G7hTuA&t=64s&ab_channel=PalabraConexaVirtual" target="_blank" style="display:inline-block;background-color:black;padding:30px;">
-  <img width="32%" src="miniatura.png" style="border:50px solid black;" />
-</a>
-
-<h4>
-  Psychological Test | Try it: https://al-iskander2.github.io/Test-Psicologico/
-</h4>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Al-iskander2.Al-iskander2" />
 </div>
-
-<h1 align="center">hey there 👋</h1>
-
-## 👉 About me
-I am a **developer focused on cybersecurity** who also builds **experimental software ideas**.  
-My goal is to make the world a better place through computing.
-
-Projects:  
-- Motivational Quotes | Try it: https://al-iskander2.github.io/Seguridad-interior-Jane/  
-- Psychological Test | Try it: https://al-iskander2.github.io/Test-Psicologico/
