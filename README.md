@@ -3,8 +3,8 @@ STYLE: Swiss neo-industrial: #FC4904 | BLACK #000000 | WHITE #FFFFFF
 Rule: Orange only for "signal" moments (current projects + CTA).
 -->
 
-# Hi, I'm Alejandro 👋
-📍 **Dublin, Ireland** | 🧠 **Neurotech founder** | 🧩 **Indie builder**
+ **●** Oh, I'm Alejandro  **●**
+**●** **Founder Anticipation Technology** |   **●** **Indie builder**
 
 > Shipping open-source “drops” (agents + ML notebooks) and building EEG/BCI products at **Anticipation Technology**.
 
