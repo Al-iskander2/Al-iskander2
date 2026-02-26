@@ -7,11 +7,8 @@ Rule: Orange only for "signal" moments (current projects + CTA).
 # Hi, I'm Alejandro 👋
 **●** **Founder Anticipacion Technology** | **●** **Indie builder**
 
-> Shipping open-source “drops” (agents + ML notebooks) and building EEG/BCI products at **Anticipation Technology**.
 
----
-
-> Shipping open-source “drops” (agents + ML notebooks) and building EEG/BCI products at **Anticipation Technology**.
+> Shipping open-source “drops” (agents + ML notebooks) and building EEG/BCI products
 
 ---
 
