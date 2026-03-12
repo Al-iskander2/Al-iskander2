@@ -15,7 +15,7 @@ Rule: Orange only for "signal" moments (current projects + CTA).
 ## Current Projects (Open Source)
 
 **●** **[JARVIS](https://github.com/Al-iskander2/Jarvis)** ↗  
-↳ — local-first personal agent framework inspired by Tony Stark's JARVIS, designed to evolve and assist.
+↳ — local-first personal agent framework inspired by Tony Starck's JARVIS, designed to evolve and assist.
 
 ---
 
