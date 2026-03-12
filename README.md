@@ -17,9 +17,6 @@ Rule: Orange only for "signal" moments (current projects + CTA).
 **●** **[JARVIS](https://github.com/Al-iskander2/Jarvis)** ↗  
 ↳ — local-first personal agent framework inspired by Tony Stark's JARVIS, designed to evolve and assist.
 
-**●** **[ETERNIDAD](https://github.com/Al-iskander2/Eternidad)** ↗  
-↳ — EEG-informed identity continuity experiments (ethics-first + reproducible pipelines).
-
 ---
 
 ## Machine Learning
@@ -47,6 +44,15 @@ Visit the [Anticipation Technology website](https://anticipationtech.com/)
 - [3D brainwave projection (short)](https://www.youtube.com/shorts/5gjIZPuyGJ0)
 
 ---
+
+## Production Systems / Client Work
+
+**●** **[BudsiDesk](https://www.budsidesk.com/)** ↗  
+↳ — Full SaaS platform built from scratch for a private client.  
+Includes authentication, payment gateway, user system, invoice OCR processing, dashboards, and dynamic templates.
+
+**●** **[Anticipation Technology](https://anticipationtech.com/)** ↗  
+↳ — Official website and ecosystem interface for EEG/BCI hardware and services.
 
 ## Sponsor (after you’ve seen the work)
 
@@ -86,8 +92,9 @@ Visit the [Anticipation Technology website](https://anticipationtech.com/)
 - **BSc Computer Systems Engineering** | UVEG | Completed
 
 ### Professional Experience
-- **Full-Stack Developer** | **BudsiDesk** | 2024–Present  
-  SaaS platform for invoicing and tax calculations
+- **Full-Stack Developer** | **BudsiDesk** | May 2024– Nov 2024  
+  End-to-end SaaS platform including authentication, payment processing,
+  invoice OCR pipeline, dashboards, and document automation.
 
 - **Business Intelligence Developer** | **Koffe and Kale** | 2024  
   BI app for multi-store retailer
