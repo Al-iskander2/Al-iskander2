@@ -33,6 +33,17 @@ Rule: Orange only for "signal" moments (current projects + CTA).
 
 ---
 
+## Web pages for clients
+
+**●** **[BudsiDesk](https://www.budsidesk.com/)** ↗  
+↳ — Full SaaS platform built from scratch for a private client.  
+Includes authentication, payment gateway, user system, invoice OCR processing, dashboards, and dynamic templates.
+
+**●** **[Anticipation Technology](https://anticipationtech.com/)** ↗  
+↳ — Official website and ecosystem interface for EEG/BCI hardware and services.
+
+---
+
 ## Neurotechnology (AnticipationTech — Service BCI)
 
 **Anticipation Technology** builds **EEG/BCI hardware + web services** (Prometeo Tiara ecosystem).  
@@ -44,15 +55,6 @@ Visit the [Anticipation Technology website](https://anticipationtech.com/)
 - [3D brainwave projection (short)](https://www.youtube.com/shorts/5gjIZPuyGJ0)
 
 ---
-
-## Production Systems / Client Work
-
-**●** **[BudsiDesk](https://www.budsidesk.com/)** ↗  
-↳ — Full SaaS platform built from scratch for a private client.  
-Includes authentication, payment gateway, user system, invoice OCR processing, dashboards, and dynamic templates.
-
-**●** **[Anticipation Technology](https://anticipationtech.com/)** ↗  
-↳ — Official website and ecosystem interface for EEG/BCI hardware and services.
 
 ## Sponsor (after you’ve seen the work)
 
