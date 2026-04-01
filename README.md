@@ -14,8 +14,13 @@ Rule: Orange only for "signal" moments (current projects + CTA).
 
 ## Current Projects (Open Source)
 
+**●** **[Agent](https://github.com/Al-iskander2/Agent))** ↗  
+↳ — This is a skeleton for building an agent. This code provides an architecture without libraries or frameworks..
+
 **●** **[JARVIS](https://github.com/Al-iskander2/Jarvis)** ↗  
 ↳ — local-first personal agent framework inspired by Tony Starck's JARVIS, designed to evolve and assist.
+
+
 
 ---
 
