@@ -20,7 +20,16 @@ Rule: Orange only for "signal" moments (current projects + CTA).
 **●** **[JARVIS](https://github.com/Al-iskander2/Jarvis)** ↗  
 ↳ — local-first personal agent framework inspired by Tony Starck's JARVIS, designed to evolve and assist.
 
+---
 
+## Web pages for clients
+
+**●** **[BudsiDesk](https://www.budsidesk.com/)** ↗  
+↳ — Full SaaS platform built from scratch for a private client.  
+Includes authentication, payment gateway, user system, invoice OCR processing, dashboards, and dynamic templates.
+
+**●** **[Anticipation Technology](https://anticipationtech.com/)** ↗  
+↳ — Official website and ecosystem interface for EEG/BCI hardware and services.
 
 ---
 
@@ -35,17 +44,6 @@ Rule: Orange only for "signal" moments (current projects + CTA).
 **●** **[ML-LLM-Bank](https://colab.research.google.com/drive/1OUer1o2NzuzIoLwtAT9Z4Z45HEyDzxAy?usp=sharing)** — lightweight banking assistant LLM prototype.
 
 **●** **[ML-View](https://colab.research.google.com/drive/1T_JJ8p-52dbkUT0xynWR-17sWiNtiYrL?usp=sharing)** — CNN image recognition demo (CIFAR-10).
-
----
-
-## Web pages for clients
-
-**●** **[BudsiDesk](https://www.budsidesk.com/)** ↗  
-↳ — Full SaaS platform built from scratch for a private client.  
-Includes authentication, payment gateway, user system, invoice OCR processing, dashboards, and dynamic templates.
-
-**●** **[Anticipation Technology](https://anticipationtech.com/)** ↗  
-↳ — Official website and ecosystem interface for EEG/BCI hardware and services.
 
 ---
 
