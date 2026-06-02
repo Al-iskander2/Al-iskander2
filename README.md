@@ -31,6 +31,9 @@ Includes authentication, payment gateway, user system, invoice OCR processing, d
 **●** **[Anticipation Technology](https://anticipationtech.com/)** ↗  
 ↳ — Official website and ecosystem interface for EEG/BCI hardware and services.
 
+**●** **[omarketings](https://www.omarketings.com/)** ↗  
+↳ — It is a Website deployd in 2026 June for make marketing with eamils.
+
 ---
 
 ## Machine Learning
