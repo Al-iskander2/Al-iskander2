@@ -1,3 +1,4 @@
+
 <!--
 STYLE: Swiss neo-industrial: #FC4904 | BLACK #000000 | WHITE #FFFFFF
 Rule: Orange only for "signal" moments (current projects + CTA).
@@ -13,17 +14,17 @@ Rule: Orange only for "signal" moments (current projects + CTA).
 
 ## Current Projects (Open Source)
 
-**●** ** - [Agent](https://github.com/Al-iskander2/Agent)**
+**●** **[Agent](https://github.com/Al-iskander2/Agent)** -
 A skeleton for building an agent, providing a basic architecture without agent libraries or frameworks.
 
-**●** ** - [JARVIS](https://github.com/Al-iskander2/Jarvis)**
+**●** **[JARVIS](https://github.com/Al-iskander2/Jarvis)** -
 Local-first personal agent framework inspired by Tony Stark's JARVIS, designed to evolve and assist.
 
 ---
 
 ## Current Product (Proprietary)
 
-**●** ** - [CODE_AGENT_LAIN](https://anticipationtech.com/templates/code_agent_lain.html)**
+**●** **[CODE_AGENT_LAIN](https://anticipationtech.com/templates/code_agent_lain.html)** -
 Local terminal-based AI coding agent developed through research, experimentation, and custom meta-logic for task execution, context handling, tool use, and code interaction.
 
 Two versions developed and released as a commercial MVP for macOS and Windows.
@@ -34,14 +35,14 @@ Two versions developed and released as a commercial MVP for macOS and Windows.
 
 ## Web Products & Client Work
 
-**●** ** - [BudsiDesk](https://www.budsidesk.com/)**
+**●** **[BudsiDesk](https://www.budsidesk.com/)** -
 Full SaaS platform built from scratch for a private client.
 Includes authentication, payment gateway, user system, invoice OCR processing, dashboards, and dynamic templates.
 
-**●** ** - [Anticipation Technology](https://anticipationtech.com/)**
+**●** **[Anticipation Technology](https://anticipationtech.com/)** -
 Official website and ecosystem interface for EEG/BCI hardware, AI tools, and services.
 
-**●** ** - [omarketings](https://www.omarketings.com/)**
+**●** **[omarketings](https://www.omarketings.com/)** -
 Marketing website deployed in June 2026 for email campaign workflows.
 
 ---
